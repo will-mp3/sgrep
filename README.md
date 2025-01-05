@@ -3,7 +3,7 @@
 ### NOTE: sgrep implementation makes use of the Mu.c file for many of its functions. This helper file was not created by myself, all credit to original authors.
 sgrep includes two text files for use, though any text file may be used alongside the code.
 
-## functionality includes:
+## Functionality includes:
 
 ### -c, --count
 Suppress normal output; instead print a count of matching lines for the input file. With the -v option, count non-matching lines.
